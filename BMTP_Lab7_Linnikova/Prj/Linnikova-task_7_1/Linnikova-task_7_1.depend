@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709043702 source:c:\bmtp-lab7-linnikova\prj\linnikova-task_7_1\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
